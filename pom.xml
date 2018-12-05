@@ -329,7 +329,6 @@
                 <configuration>
                     <path>/platform</path>
                     <charset>${project.build.sourceEncoding}</charset>
-                    <port>${server.port}</port>
                     <url>${server.url}</url>
                     <server>tomcat</server>
                     <uriEncoding>${project.build.sourceEncoding}</uriEncoding>
